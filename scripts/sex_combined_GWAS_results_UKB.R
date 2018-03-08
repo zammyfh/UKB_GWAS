@@ -1,5 +1,7 @@
 setwd("/well/ukbbmcm/workDirectories/zammy/GWAS")
 
+print("Hello")
+
 library(data.table)
 
 library(plyr)
